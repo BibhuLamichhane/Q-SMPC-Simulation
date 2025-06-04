@@ -1,3 +1,5 @@
 numpy
 pandas
 requests
+qiskit
+qiskit-ibm-runtime
