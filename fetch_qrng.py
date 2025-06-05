@@ -52,4 +52,4 @@ def generate_qrng_angles_df(num_parties=TOTAL_PARTIES, num_samples=NUM_SAMPLES):
 
 qrng_angles = generate_qrng_angles_df()
 qrng_angles.to_csv('./data/qrng_angles.csv', index=False)
-print("✅ QRNG angles saved to qrng_angles.csv")
+print("QRNG angles saved to qrng_angles.csv")

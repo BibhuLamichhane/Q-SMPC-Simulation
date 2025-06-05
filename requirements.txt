@@ -3,3 +3,6 @@ pandas
 requests
 qiskit
 qiskit-ibm-runtime
+qiskit-aer
+dotenv
+pylatexenc
